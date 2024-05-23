@@ -1,7 +1,7 @@
 BitBake "Hello, World!" Project
 ===============================
 I use this project to validate some examples described in bitbake docs.
-
+```bash
 $ cd build
 $ bitbake world
 Loading cache: 100% |                                                                                                                        | ETA:  --:--:--
@@ -18,3 +18,4 @@ NOTE: Executing Tasks
 *                  *
 ********************
 NOTE: Tasks Summary: Attempted 1 tasks of which 0 didn't need to be rerun and all succeeded.
+```
